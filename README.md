@@ -34,7 +34,7 @@ img1=np.zeros((100,500),dtype='uint8')
 font=cv2.FONT_HERSHEY_COMPLEX_SMALL
 
 # Create the text using cv2.putText
-cv2.putText(img1,'SAEE' ,(5,70),font,4,(255),2,cv2.LINE_AA)
+cv2.putText(img1,'VENKATA SAI' ,(5,70),font,4,(255),2,cv2.LINE_AA)
 
 
 # Create the structuring element
@@ -57,16 +57,15 @@ plt.imshow(img_erode,cmap='gray')
 ## Output:
 
 ### Display the input Image
-![image](https://github.com/user-attachments/assets/b2c4392f-8ee3-484a-90b0-8db77765dd2c)
+![WhatsApp Image 2025-05-05 at 09 38 37_318464b3](https://github.com/user-attachments/assets/5a671d86-8878-4bee-a9b3-43dbeb75ce7a)
 
 
 ### Display the Eroded Image
-![image](https://github.com/user-attachments/assets/bc8a0330-ce34-494b-8902-9389360aba35)
-
+![WhatsApp Image 2025-05-05 at 09 38 36_a8df6637](https://github.com/user-attachments/assets/4275205a-3fbf-40bf-9003-20c662c67d67)
 
 
 ### Display the Dilated Image
-![image](https://github.com/user-attachments/assets/3fed6d51-6194-4a16-9562-03f0396badc5)
+![WhatsApp Image 2025-05-05 at 09 38 36_856be539](https://github.com/user-attachments/assets/4e9b0f4e-030e-4588-9688-01c709c9c139)
 
 
 
