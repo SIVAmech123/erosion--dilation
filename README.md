@@ -21,8 +21,8 @@ Erode the image
 Dilate the Image
  
 ## Program:
-## Developed by: SINGAMALA VENKATA SAI KUMAR REDDY
-## Register number: 212223230208
+## Developed by: SIVAKUMAR R
+## Register number: 212223230209
 ## PROGRAM
 ```
 
@@ -57,15 +57,15 @@ plt.imshow(img_erode,cmap='gray')
 ## Output:
 
 ### Display the input Image
-![WhatsApp Image 2025-05-05 at 09 38 37_318464b3](https://github.com/user-attachments/assets/5a671d86-8878-4bee-a9b3-43dbeb75ce7a)
-
+![WhatsApp Image 2025-05-07 at 15 12 55_2414f95f](https://github.com/user-attachments/assets/bf6151af-35c0-4f67-b7a3-440ae30a6a2a)
 
 ### Display the Eroded Image
-![WhatsApp Image 2025-05-05 at 09 38 36_a8df6637](https://github.com/user-attachments/assets/4275205a-3fbf-40bf-9003-20c662c67d67)
 
+![WhatsApp Image 2025-05-07 at 15 13 10_1f1d7d71](https://github.com/user-attachments/assets/e64f822b-1a74-4c4c-a43f-97aa8d0a8a3c)
 
 ### Display the Dilated Image
-![WhatsApp Image 2025-05-05 at 09 38 36_856be539](https://github.com/user-attachments/assets/4e9b0f4e-030e-4588-9688-01c709c9c139)
+![WhatsApp Image 2025-05-07 at 15 13 21_127cdbf2](https://github.com/user-attachments/assets/c2a497f0-ec91-41be-a70c-d2f9ebe5c089)
+
 
 
 
